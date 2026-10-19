@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+venv*/
+env/
+.env/
+
+# Large archives and dataset folders
+*.zip
+*.tar.gz
+data/
+
+# Reports and academic deliverables (local only)
+reports/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# IDE & Editor configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and scratch files
+*.log
+scratch/
